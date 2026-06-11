@@ -1,6 +1,6 @@
 # Aon plc – DCF & Trading Comps Valuation Model
 
-**Author:** Arun Drubhra  
+**Author:** Arunn-D  
 **Date:** June 2026  
 **Subject Company:** Aon plc (NYSE: AON)  
 **Sector:** Professional Services / Insurance Advisory  
