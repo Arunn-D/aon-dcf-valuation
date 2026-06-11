@@ -63,7 +63,7 @@ Aon is a high-quality, asset-light business generating consistent mid-30s EBITDA
 
 The professional services advisory sector benefits from structural tailwinds: increasing complexity in risk (cyber, climate, geopolitical), rising demand for sophisticated reinsurance solutions, and growing corporate spend on employee health and benefits. Aon's global scale and distribution relationships create a durable competitive moat that smaller competitors cannot easily replicate.
 
-Aon has also demonstrated consistent capital return discipline — returning capital via buybacks at a pace that has reduced the share count materially over the past decade — which acts as a reliable earnings-per-share growth driver even in periods of flat organic revenue growth.
+Aon has also demonstrated consistent capital return discipline - returning capital via buybacks at a pace that has reduced the share count materially over the past decade, which acts as a reliable earnings-per-share growth driver even in periods of flat organic revenue growth.
 
 **Bear case - key risks:**
 
