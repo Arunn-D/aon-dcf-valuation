@@ -52,7 +52,7 @@ Data was sourced from Aon's 2025 Form 10-K, peer SEC filings, Bloomberg consensu
 * **52-Week Trading Range:** **$305.00 – $381.00** *(Current market ~$322)*
 
 ### Valuation Takeaway
-The base case DCF indicates an implied share price of **$388.96** based on Aon's target WACC of 7.85%. Under a conservative rate scenario (WACC rising to 9.0%), the implied price drops to **$312.50**, aligning closely with current market trading levels (~$322). Trading comps suggest a fair-value range between **$345 and $399**, highlighting that market valuation currently prices in modest downside macro risks while leaving room for upside if NFP integration synergies outperform baseline guidance.
+The base case DCF indicates an implied share price of $388.96 based on Aon's target WACC of 7.85%. Under a conservative rate scenario (WACC rising to 9.0%), the implied price drops to $312.50, aligning closely with current market trading levels (~$322). Trading comps suggest a fair-value range between $345 and $399, highlighting that market valuation currently prices in modest downside macro risks while leaving room for upside if NFP integration synergies outperform baseline guidance.
 
 ---
 
