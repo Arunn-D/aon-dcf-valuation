@@ -1,4 +1,4 @@
-# Aon plc (NYSE: AON) — Financial Valuation Model
+# Aon plc (NYSE: AON) - Financial Valuation Model
 
 **Author:** Arun Drubhra  
 **Date:** April 2026  
