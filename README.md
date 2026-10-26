@@ -1,4 +1,4 @@
-# Aon plc (NYSE: AON) — Equity Valuation Model
+# Aon plc (NYSE: AON) - Equity Valuation Model
 
 **Author:** Arun Drubhra  
 **Degree:** BSc Mathematics with Economics, Loughborough University  
